@@ -1,0 +1,6 @@
+.app-background {
+    background-color: rgba(241, 246, 250, 1);
+    height: 100vh;
+    overflow-y: scroll;
+    display: flex;
+}
